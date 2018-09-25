@@ -1,1 +1,3 @@
 # README
+contributors
+other me
